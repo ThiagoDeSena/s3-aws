@@ -1,0 +1,8 @@
+# application.properties.example
+spring.application.name=demo-s3
+
+# Credenciais da AWS S3
+cloud.aws.credentials.access-key=SUA_ACCESS_KEY_AQUI
+cloud.aws.credentials.secret-key=SEU_SECRET_KEY_AQUI
+cloud.aws.region.static=us-east-1
+aws.bucket.name=NOME_DO_SEU_BUCKET
